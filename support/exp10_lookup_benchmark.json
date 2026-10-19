@@ -1,0 +1,9 @@
+{
+  "fixture_records": 20000,
+  "lookups_per_run": 600,
+  "runs": 5,
+  "scan_median_ms": 110.681,
+  "dictionary_median_ms": 0.169,
+  "equal_outputs": true,
+  "scope": "Local Python illustration only. Excludes index construction and is not a Zoho Creator benchmark."
+}
